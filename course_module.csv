@@ -1,0 +1,9 @@
+id,course_id,percent_to_pass,is_advanced,progress_max,steps_max,tasks_max
+10,721,70.0,False,7.0,13,7
+11,721,70.0,False,7.0,16,7
+4,721,70.0,False,10.0,18,10
+0,721,70.0,False,7.0,13,7
+9,721,70.0,False,7.0,9,7
+1,721,70.0,False,7.0,11,7
+5,721,70.0,False,7.0,16,7
+12,721,70.0,False,7.0,18,7
