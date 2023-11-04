@@ -4,7 +4,7 @@ import telebot
 from analytics import CourseAnalytics
 
 # Токен вашего бота
-TOKEN = '6532765979:AAENORb7rgk7pww32GKVIeQdg2n4hMm-bBc'
+TOKEN = '...'
 
 # Создание экземпляра класса TeleBot
 bot = telebot.TeleBot(TOKEN)
